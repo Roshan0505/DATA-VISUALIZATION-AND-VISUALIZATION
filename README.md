@@ -73,5 +73,5 @@ The project was implemented using Python in Google Colab.
 ****Housing-Data-EDA/
 │
 ├── Housing.csv
-├── Housing_Data_Exploration.ipynb
+├── README.mdHousing_Data_Exploration
 └── README.md
